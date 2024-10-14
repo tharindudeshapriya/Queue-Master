@@ -33,11 +33,4 @@ Queue Master can be used to manage customer queues effectively, minimizing waiti
 - **Token Queue**: Tokens are provided to customers when registering, allowing for queue management.
 - **Appointment Queue**: Customers can schedule appointments ahead of time, up to four weeks in advance.
 
-## Contributing
-Feel free to open an issue or submit a pull request if you'd like to contribute to Queue Master.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
-## Contact
-For any inquiries, please contact the development team listed in the Developers Info section of the application.
